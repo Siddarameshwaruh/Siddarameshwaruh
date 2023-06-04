@@ -1,5 +1,5 @@
-- Hi there 👋, I’m Siddarameshwar U H 
-- Data Analyst Enthusiast
+##                     Hi there 👋, I’m Siddarameshwar U H 
+###                         Data Analyst Enthusiast
 - 🌱 I’m currently learning Power BI, SQL, Python, Excel
 - 📫 How to reach me siddarameshwaruh@gmail.com
 
